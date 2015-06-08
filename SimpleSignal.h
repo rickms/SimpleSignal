@@ -5,7 +5,7 @@
  *  Created by Rick Smorawski on 5/1/15.
  *
  * Signals is an interpretation of Robert Penner's AS3 Signals, a variation of the Observer pattern, in C++ using
- * the latest language features of C++11.  All memory allocations are done via smart pointers.  
+ * the latest language features of C++11. 
  *
  * Usage : 
  *
